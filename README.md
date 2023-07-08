@@ -17,11 +17,9 @@ Output:
 { name: 'John', age: 30 }
 ```
 
-
 ### Exercise 2:
 
 Write a function named sumNumbers that takes in multiple numbers as arguments using the rest operator. The function should return the sum of all the numbers.
-
 
 #### Example:
 
