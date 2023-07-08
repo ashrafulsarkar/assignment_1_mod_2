@@ -1,5 +1,4 @@
-# ostad Vue js course 
-## Assignment 1 (Module 2)
+# Ostad Vue js course - Assignment 1 (Module 2)
 
 ### Exercise 1:
 
@@ -10,48 +9,31 @@ Write a function named destructureExample that takes in an object and an array a
 #### Example:
 
 Input:
-
+```javascript
 const obj = { name: 'John', age: 30, city: 'New York' };
 const arr = [10, 20, 30, 40];
+```
 
 Output:
-
+```javascript
 { name: 'John', age: 30 }
+```
 
 
- 
-
-
-Exercise 2:
-
+### Exercise 2:
 
 Write a function named sumNumbers that takes in multiple numbers as arguments using the rest operator. The function should return the sum of all the numbers.
 
 
- 
 
-
-Example:
-
+#### Example:
 
 Input:
-
-
+```javascript
 sumNumbers(1, 2, 3, 4, 5);
+```
 
-
- 
-
-
-Output:
-
-
-15
-
-
-
-
-
+Output: 15
 
 
 Exercise 3:
